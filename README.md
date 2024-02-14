@@ -1,5 +1,5 @@
 # Recommandations-de-films
-Création d'un système de recommandations de films à partir de plusieurs bases de données
+[Création d'un système de recommandations de films à partir de plusieurs bases de données](https://cine-creuse-recommandation.streamlit.app/)
 
 <ins>Livrable</ins> : Notre équipe de 3 data analysts est missionnée pour la création d’un moteur de recommandations de films. L'application devra notamment proposer une zone de saisie de titre de film par l’utilisateur, les affiches de films recommandés ainsi que l'envoi de notifications aux clients à terme. Le client souhaite également avoir à disposition des KPI sur les tendances du cinéma, les acteurs les populaires ou encore les compagnies qui génèrent le plus de revenus.
 
