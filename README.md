@@ -23,3 +23,7 @@ Pour l'ensemble du projet, nous avons appliquée la méthode agile, notamment Sc
   ![Accueil](https://github.com/lher5/Recommandations-de-films/blob/main/Images/Power%20Bi%20-%20Projet%202%20-%20Films.png)
 - Maisons de production
   ![Accueil](https://github.com/lher5/Recommandations-de-films/blob/main/Images/Power%20Bi%20-%20Projet%202%20-%20Maisons%20de%20productions.png)
+
+
+<ins>Application de recommandations</ins> :
+
