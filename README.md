@@ -27,3 +27,4 @@ Pour l'ensemble du projet, nous avons appliquée la méthode agile, notamment Sc
 
 <ins>Application de recommandations</ins> :
 
+Disponible dans les documents sous le nom "Vidéo application Streamlit"
